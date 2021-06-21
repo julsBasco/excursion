@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    margin: 21px;
+    padding: 0px;
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+/* moain boxes */
+
+    /* header  */
+        div.mainHeader {
+
+        }
+
+    /* main */
+
+        main {
+
+        }
+
+    /* footer */
+
+        footer {
+
+        }
+
+/* header Styles */
+
+    /* mainHeader */
+        div.mainHeader h1 {
+            font-weight: normal;
+            font-size: 50px;
+            color: white;
+           
+        }
+
+
+/* main Section Styles */
+
+    /* section - downloadLink */
+        section.downloadLink a{
+            color: aquamarine;
+            font-size: 16px;
+        }
+
+    /* section - mainContent */
+        figcaption.forIphone h1 {
+            font-weight: 300;
+            font-size: 42px;
+            color: white
+        }
+
+        figcaption.forIphone h3 {
+            font-size: 21px;
+            color:gray;
+            font-weight: normal;
+
+        }
+
+
+/* footer */
+
+    /* copyright */
+        footer.copyright p {
+            text-align: right;
+            color: grey;
+            font-size: 21px;
+            font-weight: bold;
+        }
